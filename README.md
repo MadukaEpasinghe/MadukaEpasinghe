@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Maduka 👋
 
-<!--
-**MadukaEpasinghe/MadukaEpasinghe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI & Data Analyst based in Sweden 🇸🇪
 
-Here are some ideas to get you started:
+## Skills
+- Python | SQL | Power BI
+- Machine Learning | NLP | LLMs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- AI Data Analyst Agent
+- Business Intelligence Dashboard
+- Loan Default Prediction
+
+## Interests
+- AI Agents
+- LLM Applications
+- Data-driven decision making
