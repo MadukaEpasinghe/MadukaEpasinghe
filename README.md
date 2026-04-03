@@ -17,7 +17,7 @@
 🔹 [AI Data Analyst Agent](https://github.com/MadukaEpasinghe/AI-Data-Analyst-Agent-LLM-powered-Business-Insights-Assistant-)  
 → LLM-powered assistant that answers business questions from datasets  
 
-🔹 [Business Intelligence Dashboard](#)  
+🔹 [Business Intelligence Dashboard](https://github.com/MadukaEpasinghe/Laundary-store-performance-Dashboard)  
 → Power BI dashboard analyzing laundry business performance  
 
 🔹 [Loan Default Prediction](#)  
