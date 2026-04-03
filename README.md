@@ -14,7 +14,7 @@
 
 ## 🚀 Featured Projects
 
-🔹 [AI Data Analyst Agent](https://github.com/MadukaEpasinghe/ai-data-analyst-agent)  
+🔹 [AI Data Analyst Agent](https://github.com/MadukaEpasinghe/AI-Data-Analyst-Agent-LLM-powered-Business-Insights-Assistant-)  
 → LLM-powered assistant that answers business questions from datasets  
 
 🔹 [Business Intelligence Dashboard](#)  
