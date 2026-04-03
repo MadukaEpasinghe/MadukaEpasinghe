@@ -20,7 +20,7 @@
 🔹 [Business Intelligence Dashboard](https://github.com/MadukaEpasinghe/Laundary-store-performance-Dashboard)  
 → Power BI dashboard analyzing laundry business performance  
 
-🔹 [Loan Default Prediction](#)  
+🔹 [Loan Default Prediction](https://github.com/MadukaEpasinghe/Predicting-Loan-Default)  
 → Machine learning model to assess financial risk  
 
 ---
